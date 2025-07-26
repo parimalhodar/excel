@@ -1,0 +1,26 @@
+# column_mapping.py
+
+COLUMN_MAPPING = {
+    "Sr. No.": "SR NO",
+    "Cases": "CASE_NO",
+    "Party Name": "NAME",
+    "Registration date": "DATE OF REG",
+    "Date of Decision": "DATE OF DIS",
+    "Contested/Uncontested": "BJ OBJ",
+    "Disposal Nature": "DIS NATURE",
+    "Nature": "NATURE",
+    "Date of Registration": "DATE OF REG",
+    "Age": "SYS AGE",
+    "Ready / Unready / Stayed": "RU",
+    "Next Date": "NEXT DATE",
+    "Next Purpose": "STAGE",
+    "On same Stage since": "SAME STAGE",
+    "DORMANT CASE/SINE Die CASE": "DF",
+    "Delay Reason": "DEALY REASON",
+    "Case No.": "CASE_NO",
+    "Petitioner Name VS Respondent Name": "NAME",
+    "Advocate": "ADV",
+    "Nature of Disposal": "DIS NATURE",
+    "Act Section": "ACT",
+    "Purpose": "STAGE",
+}
