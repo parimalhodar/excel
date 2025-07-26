@@ -1,4 +1,0 @@
-Flask
-duckdb
-pandas
-openpyxl
